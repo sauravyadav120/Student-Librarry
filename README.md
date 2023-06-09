@@ -1,2 +1,2 @@
-# Student-Librarry
+# Student-Library
  Student Library Project
